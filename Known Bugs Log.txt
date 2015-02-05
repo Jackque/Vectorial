@@ -1,0 +1,19 @@
+KNOWN BUGS LOG
+
+Version 0.001 Round 1
+-> When ball hits a outside corner, the sphere hit box makes it bounce at weird angles, unable for the user to stop it
+==REMEDIED Player just resets
+
+-> Moving above 25 will cause the ball to clip (can be solved my making walls thicker)
+==REMEDIED Do not move faster than 25
+
+-> Perspective is a bit strong, lower fov recommended, not sure how it will affect performance
+==NOT REMEDIED SEE NEXT VERSION
+
+Version 0.002 Round 1
+-> Perspective is a bit strong, lower fov recommended, not sure how it will affect performance
+
+-> UI does not work when layered incorrectly, should be fixed next version no worries mates!
+
+-> Spiderman hit box bigger than spiderman... yeh... that happened...
+
